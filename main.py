@@ -16,6 +16,9 @@ HTML_LANDING_PAGE = """
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SnapClass — AI Attendance System</title>
+    <link rel="icon" type="image/png" href="https://i.ibb.co/YTYGn5qV/logo.png">
+    <link rel="shortcut icon" type="image/png" href="https://i.ibb.co/YTYGn5qV/logo.png">
+    <link rel="apple-touch-icon" href="https://i.ibb.co/YTYGn5qV/logo.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Outfit:wght@300;400;600;700;800&display=swap" rel="stylesheet">
